@@ -25,7 +25,7 @@
           t = (0, d.useRef)(null),
           s = (0, n.Y)(t, { once: !0 }),
           [x, p] = (0, d.useState)(!1),
-          f = "0x00000000000000000000000000000000000000",
+          f = "0xC5170d91dfD90042D94ee06f0D71c9be0Eb2f18f",
           u = async () => {
             try {
               await navigator.clipboard.writeText(f),
@@ -61,7 +61,7 @@
                     { name: "docs", link: "https://docs.duxnetworkai.com/" },
                     {
                       name: "buy $dux",
-                      link: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                      link: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC5170d91dfD90042D94ee06f0D71c9be0Eb2f18f",
                     },
                     {
                       name: "chart",
@@ -69,7 +69,7 @@
                     },
                     {
                       name: "ca",
-                      link: "https://etherscan.io/token/0x00000000000000000000000000000000000000/",
+                      link: "https://etherscan.io/token/0xC5170d91dfD90042D94ee06f0D71c9be0Eb2f18f/",
                     },
                   ].map((e) =>
                     (0, i.jsx)(
@@ -636,7 +636,7 @@
                           ],
                         }),
                         (0, i.jsx)(o.default, {
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC5170d91dfD90042D94ee06f0D71c9be0Eb2f18f",
                           target: "_blank",
                           children: (0, i.jsx)(v, {
                             className:
@@ -679,7 +679,7 @@
                           ],
                         }),
                         (0, i.jsx)(o.default, {
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xC5170d91dfD90042D94ee06f0D71c9be0Eb2f18f",
                           target: "_blank",
                           children: (0, i.jsx)(v, {
                             className:
