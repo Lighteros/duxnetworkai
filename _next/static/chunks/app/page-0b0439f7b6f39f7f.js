@@ -56,8 +56,8 @@
                 (0, i.jsx)("div", {
                   className: "flex items-center gap-x-6",
                   children: [
-                    { name: "x", url: "https://x.com/" },
-                    { name: "tg", url: "https://t.me/" },
+                    { name: "x", url: "https://x.com/DuxNetwork_AI" },
+                    { name: "tg", url: "https://t.me/DuxNetwork_AI" },
                   ].map((e) => (0, i.jsx)("a", { href: e.url, target: "_blank", rel: "noopener noreferrer", children: (0, i.jsx)(r.default, { src: "/socials/".concat(e.name, ".svg"), alt: e.name, className: "size-5 md:size-8", width: 40, height: 40 }) }, e.name)),
                 }),
               ],
