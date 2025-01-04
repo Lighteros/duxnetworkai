@@ -498,7 +498,7 @@
                                   "OCAI particularly aims to simplify the process of deploying AI models on the Dux Decentralized GPU Network and use them in a few simple clicks.",
                               }),
                               (0, i.jsx)(o.default, {
-                                href: "https://ocai.destranetwork.io/",
+                                href: "https://app.duxnetworkai.com",
                                 target: "_blank",
                                 children: (0, i.jsx)(l.E.button, {
                                   initial: { opacity: 0, y: 80 },
@@ -508,7 +508,7 @@
                                     : { duration: 1, delay: 2.3, ease: y.YQ },
                                   className:
                                     "inline-flex py-3 px-6 justify-center items-center gap-2.5 ml-2 rounded-3xl bg-[#FF3838] text-[#fff] text-lg font-bold not-italic leading-normal mb-5 md:mb-0",
-                                  children: "Deploy AI",
+                                  children: "Launch App",
                                 }),
                               }),
                             ],
