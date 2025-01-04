@@ -65,7 +65,7 @@
                     },
                     {
                       name: "chart",
-                      link: "https://www.dextools.io/app/en/ether/pool-explorer/0x11111111111111111111111111111111111111",
+                      link: "https://www.dextools.io/app/en/ether/pair-explorer/0x2b8ffd65ada21a022fc638b6096b6d9457d92267",
                     },
                     {
                       name: "ca",
